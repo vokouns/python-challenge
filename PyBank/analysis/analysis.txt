@@ -1,0 +1,7 @@
+Data Analysis:
+--------------------------------
+Total Months:    86
+Total Profit:    22564198
+The average is -8311.105882352942
+The month with the greatest increase is Aug-16 with an increase of $1862002
+The month with the greatest decrease is Feb-14 with an increase of $-1825558
